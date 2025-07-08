@@ -10,10 +10,6 @@ Context Glow is a React application that demonstrates global theme switching (li
 - **Responsive Design:** Mobile-friendly and visually appealing layout.
 - **Vite Powered:** Fast development, instant hot reloads, and optimized build.
 
-## Demo
-
-![Context Glow Demo Screenshot](demo-screenshot.png) <!-- Add a screenshot if available -->
-
 ## Getting Started
 
 ### Prerequisites
